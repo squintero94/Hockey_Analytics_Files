@@ -1,4 +1,4 @@
-I've compiled some of my previous work here to include with my application for the Penguins Hockey R&D Fellowship. 
+I've compiled some of my previous work here to include with my application for the Lightning Data Scientist Assistant position. 
 Included is a folder with an early form of my PP work to show how this progressed and because there are some interesting findings, such as, the one goal games stats and special teams battle stats. This analysis further highlighted the importance of special teams and why I wanted to explore ways to further analyze and, hopefully, find ways to improve the team's performance. 
 This evolved into the files contained in the PP Analytics folder.
 Lastly, I've added copies of the reports that were sent to Coach Carkner. This includes a copy of a game sheet, which would get sent after every game, and a 5-game summary, sent every 4-6 games depending on the schedule. Also included is the year-end reports for the team and one for an individual player. These were done for every player.
